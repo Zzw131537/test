@@ -1,0 +1,17 @@
+注解和反射
+
+@Override  重写注解
+
+@Deprecated 表示该方法已废弃
+
+@SuppressWarnings("all") 镇压警告
+
+元注解
+解释其他注解的注解
+@Target : 描述范围
+@Retention : 什么级别保存该注释信息
+@Documented: 该注解将包含在javdoc中
+@Inherited : 子类可以继承父类的注解
+
+
+@interface
